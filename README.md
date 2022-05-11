@@ -9,7 +9,7 @@ Join the [VORP Community Discord](https://discord.gg/23MPbQ6)
 1. Freely Add Text a storage object for your character
 2. Store Items within the storage chest
 5. Easily configurateble settings
-7. Custom UI
+7. Custom Vue.js UI
 
 ## Installation
 1. Download this repo/codebase
@@ -36,6 +36,7 @@ All configurations available in `/config.lua`
 - Migrate the slash commands to an easier methedology
 - Update the drag/drop logic to be closer to the cursor
 - Add everything to the Config.lua and propegate it through to nui
+- Add screenshots to tut section of readme
 
  ## Dependency
  - Vorp Core

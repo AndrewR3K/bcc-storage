@@ -20,12 +20,17 @@ Join the [VORP Community Discord](https://discord.gg/23MPbQ6)
 
 ## How-to-use
 1. Type `/storage:edit` to activate tracking ball _(Or press Z if hotkeys are enabled)_
-![image](https://user-images.githubusercontent.com/10902965/166846929-739318de-7b7d-482e-9702-6b2d4f03a82c.png)
+![image](https://user-images.githubusercontent.com/10902965/168003538-09a76c95-d6f6-47d6-b18e-8dcb963cb21c.png)
 2. Type `/scene:save` will place your storage chest
 3. Type `/scene:del` will delete you storage chest (WARNING THIS WILL CURRENTLY DELETE ALL ITEMS IN THE STORAGE!)
 4. Hold `[R]` while in from of the chest to open
+![image](https://user-images.githubusercontent.com/10902965/168003606-4c526b5b-b45e-4a8e-b788-969a19b9ff7d.png)
 5. Click `x` to clost storage
-
+![image](https://user-images.githubusercontent.com/10902965/168003674-812e6605-b26d-416c-b070-6de0cdc2874d.png)
+6. Drag item from one storage to the other to move
+![image](https://user-images.githubusercontent.com/10902965/168003758-37cc94d7-5e7f-40a9-8efb-1139d9fab613.png)
+7. If there is more than 1 item, a prompt will appear asking how many to move.
+![image](https://user-images.githubusercontent.com/10902965/168003818-189a2d4f-5678-40db-bbcb-14a9f0f52f15.png)
 
 ## How-to-configure
 All configurations available in `/config.lua`

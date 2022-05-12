@@ -38,5 +38,11 @@ All configurations available in `/config.lua`
 - Add everything to the Config.lua and propegate it through to nui
 - Add screenshots to tut section of readme
 
+## Long Term Goals
+1. Sharable storage access
+2. Lock pickable storage
+3. Choose what chest model you want to use
+4. Add storage chest item that can be used to then place the chest (Revamp slash commands)
+
  ## Dependency
  - Vorp Core

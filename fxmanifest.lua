@@ -32,7 +32,7 @@ files {
   'ui/dist/js/chunk-vendors.js.map'
 }
   
-ui_page 'ui/dev/dist/index.html'
+ui_page 'ui/dist/index.html'
 
 exports {
 	'DataViewNativeGetEventData',

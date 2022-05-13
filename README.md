@@ -1,9 +1,13 @@
 # BCC - Storage
-**THIS IS CURRENTLY UNDER DEVELOPMENT AND WILL MOST LIKELY HAVE MINOR ISSUES**
 
 > A RedM free placement storage system for [Vorp Core](http://docs.vorpcore.com:3000/)
 
 Join the [VORP Community Discord](https://discord.gg/23MPbQ6)
+
+# Caution!!!!
+- **THIS WILL NO LONGER BE MAINTAINED HERE AS IT WILL BE IMPLEMENTING THIS INTO THE VORP CORE INVENTORY MODULES**
+  - This repo will have 1-2 more pushes to fix a UI issue, but this will be the last update for now!
+- **THIS IS CURRENTLY UNDER DEVELOPMENT AND WILL MOST LIKELY CONTAIN BUGS**
 
 ## Features
 1. Freely Add Text a storage object for your character
